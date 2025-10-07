@@ -4,8 +4,9 @@
 Hello World!
 
 ### W2
-1. It is a number with decimal which can be higher precision and dynamic range
-2. because
+1. It is a fractional number which can be higher precision and dynamic range
+2. Because is a whole number
+3. 
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
