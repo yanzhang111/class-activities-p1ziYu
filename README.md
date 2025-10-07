@@ -4,8 +4,8 @@
 Hello World!
 
 ### W2
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
-
+1. It is a number with decimal which can be higher precision and dynamic range
+2. because
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
