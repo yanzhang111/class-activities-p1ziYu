@@ -4,7 +4,7 @@
 Hello World!
 
 ### W2
-1. It is a fractional number which can be higher precision and dynamic range
+1. We are under the RGB 0-1.0. It is a fractional number between 0 and 1.
 2. Because is a whole number
 3. 
 ## Open-Source Assets
