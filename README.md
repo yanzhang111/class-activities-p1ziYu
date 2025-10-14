@@ -12,6 +12,11 @@ Hello World!
 ![alt text](https://github.com/UCI-GDIM31/class-activities-p1ziYu/blob/main/In%20Class%20Activities/Assets/Unity_in_play.png)
 ![alt text](https://github.com/UCI-GDIM31/class-activities-p1ziYu/blob/main/In%20Class%20Activities/Assets/itchio.png)
 
+### W3
+Parameters(input) will be float that go with time the beat is hit by players and the timing window the beat should be hit. Return type (output) will be boolean that to determine if the player hit the beat and within the timing window.
+1. Components are the concert, classes are the performance, member variables are the performers, and methods are the instruments
+2. Because ballRenderer.color *= GetColorMultiplier(Mathf.Abs(_rigidbody.linearVelocity.x), Mathf.Abs(_rigidbody.linearVelocity.y)); shows that the color of the ball is highly bind with velocity
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
